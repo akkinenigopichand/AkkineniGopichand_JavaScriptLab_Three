@@ -1,0 +1,60 @@
+#mainDiv{
+    height: 550px;
+    width: 900px;
+    padding: 20px;
+    margin-left: 20%;
+    margin-top: 5%;
+
+    text-align: center;
+
+    background-color: rgb(99, 246, 246,0.5);
+    
+    border-radius: 10%;
+}
+
+body{
+    background-image:url("images/boat.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.searchBox{
+    padding: 10px;
+    height : 30px;
+    width:200px ;
+    border-radius: 15%;
+}
+
+#inputSection{
+    padding:10px;
+    font-size: 40px;
+    text-align: center;
+}
+
+
+
+#cityName{
+padding: 10px;
+font-size: 50px;
+}
+
+#dateAndTime{
+    padding: 10px;
+    font-size: 30px;
+}
+
+#temperature{
+    padding: 20px;
+    font-size: 75px;
+}
+
+#description{
+    padding: 10px;
+    font-size: 30px;
+}
+
+#minAndMax{
+    padding: 10px;
+    font-size: 20px;
+}
+
